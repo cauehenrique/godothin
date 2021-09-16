@@ -1,4 +1,4 @@
-https://godothin.herokuapp.com/
+-> https://godothin.herokuapp.com/
 
 # Built-in Functions
 
